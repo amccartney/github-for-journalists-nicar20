@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Github for Journalists
+### NICAR 2020
 
-You can use the [editor on GitHub](https://github.com/amccartney/github-for-journalists-nicar20/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Github for Journalists!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Github? What is git?
 
-### Markdown
+Beyond the fact that `git` is a mysterious piece of software I can barely fathom, it is a piece of software used for version control. Whenever you make changes to a file that is tracked by `git`, both the old and new versions of that file are preserved in case you need to refer or revert to an earlier version. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Github is a website built on top of `git` that allows for easier access and sharing of repositories for people on teams or to the wider public.
 
-```markdown
-Syntax highlighted code block
+### Why should I use it?
 
-# Header 1
-## Header 2
-### Header 3
+Github allows you to track changes you make to your files, which can be useful when you are writing code, but also for many other applications. Github is particularly useful when you have more than one person working on the same project at once, and need to keep track of who is doing what work and where. 
 
-- Bulleted
-- List
+Github also natively supports display for several types of files like Markdown, which this page is written in. It can also display Jupyter notebooks, CSV files, images TK in the browser, making it easy to share work. 
 
-1. Numbered
-2. List
+### The ways you can use Github
 
-**Bold** and _Italic_ and `Code` text
+* The browser
+* The desktop app
+* The terminal
 
-[Link](url) and ![Image](src)
-```
+### Basic commands
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* `git clone`
+* `git status`
+* `git add`
+* `git commit`
+* `git push`
+* `git pull`
+* `.gitignore` files
 
-### Jekyll Themes
+### Creating a new repository
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amccartney/github-for-journalists-nicar20/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1) Go to `github.com` and log in
+2) Once logged in, a big plus sign should appear on the upper right corner of your screen next to your avatar. Click it, and choose `New Repository`
+3) TKTKTK
 
-### Support or Contact
+### Create a personal Github page?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Scary Github warnings!!!
+
+# 🚨🚨🚨 Do not put passwords or other sensitive information in files you commit to Github!!! 🚨🚨🚨
+
+People will find them, and will make your life or your organization's existence miserable!
+
+Remember too that Github preserves all versions of your code, so even past versions of your code can make you vulnerable.
+
+Make sure to put any sensitive passwords or keys in a passwords file, and list it under gitignore so it won't be committed to your repository.
