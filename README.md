@@ -17,9 +17,26 @@ Github also natively supports display for several types of files like Markdown, 
 
 ## The ways you can use Github
 
-* The browser
-* The desktop app
-* The terminal
+### The browser
+You can make changes to a Github project right in the browser if you want to. This is useful for making simple copy changes when you don't want to download the project to the computer. 
+
+### The terminal
+Most people who use Github for storing code projects interact with Github primarily through the command line, or terminal. This is the quickest way to manage your git projects, but also requires a working knowledge of git and other shell commands. 
+
+If you are not familiar with these, do not be intimidated! We will not be focused on this during today's session, but it doesn't take too much time to get familiar with the flow of commands.
+
+### The desktop app
+The desktop app is the most user-friendly way to connect your local computer to your Github repositories. Most beginners start here. It provides a visual interface for uploading and downloading files to and from your remote repositore (on github.com), and tracking those changes. This is what we'll be working in today.
+
+## Using the Github desktop app
+
+TKTK put in slides/images etc. here TKTK
+
+## Creating a new repository
+
+1. Go to `github.com` and log in
+2. Once logged in, a big plus sign should appear on the upper right corner of your screen next to your avatar. Click it, and choose `New Repository`
+3. TKTKTK
 
 ## Basic commands
 
@@ -31,17 +48,15 @@ Github also natively supports display for several types of files like Markdown, 
 * `git pull`
 * `.gitignore` files
 
-## Creating a new repository
-
-1) Go to `github.com` and log in
-2) Once logged in, a big plus sign should appear on the upper right corner of your screen next to your avatar. Click it, and choose `New Repository`
-3) TKTKTK
-
 ## Create a personal Github page?
+
+Github pages allow users to create a simple static site that's hosted right here on github.com. That way you don't have to deal with servers and such. You can also make a Github page for your projects, just like the one you are reading right now. They come with a variety of standard themes, or you can create your own.
+
+If you are interested in creating a personal, organizational, or project page, check out this [handy guide](https://pages.github.com/).
 
 ## Scary Github warnings!!!
 
-# 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨 
+# 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
 # Do not put passwords or other sensitive information in files you commit to Github!!! 
 
 People will find them, and will make your life or your organization's existence miserable!
