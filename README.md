@@ -48,6 +48,14 @@ TKTK put in slides/images etc. here TKTK
 * `git pull`
 * `.gitignore` files
 
+## Terms explaiend
+
+* master
+* branch
+* fork
+* pull request
+* merge conflict
+
 ## Create a personal Github page?
 
 Github pages allow users to create a simple static site that's hosted right here on github.com. That way you don't have to deal with servers and such. You can also make a Github page for your projects, just like the one you are reading right now. They come with a variety of standard themes, or you can create your own.
