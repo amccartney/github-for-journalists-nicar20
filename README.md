@@ -22,14 +22,14 @@ Github also natively supports display for several types of files like Markdown, 
 ### The browser
 You can make changes to a Github project right in the browser if you want to. This is useful for making simple copy changes when you don't want to download the project to the computer. 
 
-![The browser](img/browser.png =450x)
+![The browser](img/browser.png)
 
 ### The terminal
 Most people who use Github for storing code projects interact with Github primarily through the command line, or terminal. This is the quickest way to manage your git projects, but also requires a working knowledge of git and other shell commands. 
 
 If you are not familiar with these, do not be intimidated! We will not be focused on this during today's session, but it doesn't take too much time to get familiar with the flow of commands.
 
-![The terminal](img/terminal.png =450x)
+![The terminal](img/terminal.png)
 
 
 ### The desktop app
