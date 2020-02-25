@@ -31,9 +31,11 @@ If you are not familiar with these, do not be intimidated! We will not be focuse
 
 ![The terminal](img/terminal.png)
 
-
 ### The desktop app
 The desktop app is the most user-friendly way to connect your local computer to your Github repositories. Most beginners start here. It provides a visual interface for uploading and downloading files to and from your remote repositore (on github.com), and tracking those changes. This is what we'll be working in today.
+
+![The GUI](img/gui.png)
+
 
 ## Using the Github desktop app
 
@@ -79,3 +81,9 @@ People will find them, and will make your life or your organization's existence 
 Remember too that Github preserves all versions of your code, so even past versions of your code can make you vulnerable.
 
 Make sure to put any sensitive passwords or keys in a passwords file, and list it under gitignore so it won't be committed to your repository.
+
+## Oh no! I messed up everything and now my world is crashing down but Liam Neeson won't come to rescure. WHAT DO I DO?
+
+Take a breath, meditate and then delete your folder and reclone. It works and it's glorious. Everybody should try it. 
+
+![Restart](img/retart.png)
