@@ -9,6 +9,8 @@ Beyond the fact that `git` is a mysterious piece of software I can barely fathom
 
 Github is a website built on top of `git` that allows for easier access and sharing of repositories for people on teams or to the wider public.
 
+You can think of Github like Google Doc where you can write/edit with your team simultaneously, view edit history and revert back, make a copy of the document and work on your own version or set the document private. It makes collaboration easier and more efficient. 
+
 ## Why should I use it?
 
 Github allows you to track changes you make to your files, which can be useful when you are writing code, but also for many other applications. Github is particularly useful when you have more than one person working on the same project at once, and need to keep track of who is doing what work and where. 
@@ -20,10 +22,15 @@ Github also natively supports display for several types of files like Markdown, 
 ### The browser
 You can make changes to a Github project right in the browser if you want to. This is useful for making simple copy changes when you don't want to download the project to the computer. 
 
+![The browser](img/browser.png =450x)
+
 ### The terminal
 Most people who use Github for storing code projects interact with Github primarily through the command line, or terminal. This is the quickest way to manage your git projects, but also requires a working knowledge of git and other shell commands. 
 
 If you are not familiar with these, do not be intimidated! We will not be focused on this during today's session, but it doesn't take too much time to get familiar with the flow of commands.
+
+![The terminal](img/terminal.png =450x)
+
 
 ### The desktop app
 The desktop app is the most user-friendly way to connect your local computer to your Github repositories. Most beginners start here. It provides a visual interface for uploading and downloading files to and from your remote repositore (on github.com), and tracking those changes. This is what we'll be working in today.
