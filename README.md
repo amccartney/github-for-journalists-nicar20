@@ -86,4 +86,4 @@ Make sure to put any sensitive passwords or keys in a passwords file, and list i
 
 Take a breath, meditate and then delete your folder and reclone. It works and it's glorious. Everybody should try it. 
 
-![Restart](img/retart.png)
+![Restart](img/restart.png)
