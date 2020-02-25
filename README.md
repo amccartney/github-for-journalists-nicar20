@@ -29,6 +29,8 @@ Most people who use Github for storing code projects interact with Github primar
 
 If you are not familiar with these, do not be intimidated! We will not be focused on this during today's session, but it doesn't take too much time to get familiar with the flow of commands.
 
+[Online tutorial using command line](http://rogerdudler.github.io/git-guide/)
+
 ![The terminal](img/terminal.png)
 
 ### The desktop app
@@ -40,6 +42,7 @@ The desktop app is the most user-friendly way to connect your local computer to 
 ## Using the Github desktop app
 
 TKTK put in slides/images etc. here TKTK
+SCREEN SHOTS TO COME
 
 ## Creating a new repository
 
@@ -59,11 +62,11 @@ TKTK put in slides/images etc. here TKTK
 
 ## Terms explaiend
 
-* master
-* branch
-* fork
-* pull request
-* merge conflict
+* master: Main branch of your repository, the default branch if you dont create others.
+* branch: Use a branch to isolate development work without affecting other branches, basically means you are creating a new version of the repository. 
+* fork: A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+* pull request: Pull requests let you tell others about changes you've pushed to a repository and the receivers can then decide whether to merge your changes. 
+* merge conflict: Conflicts happen when the same lines in a file eidted by two people, or if one developer deleted a file while another developer was modifying it. In these cases, Git cannot automatically determine what is correct. 
 
 ## Create a personal Github page?
 
