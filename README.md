@@ -56,7 +56,7 @@ The desktop app is the most user-friendly way to connect your local computer to 
 
 1. Go to `github.com` and log in
 2. Once logged in, a big plus sign should appear on the upper right corner of your screen next to your avatar. Click it, and choose `New Repository`
-3. TKTKTK
+3. TK IS GONE BYEEEEEEE
 
 ## Basic commands
 
