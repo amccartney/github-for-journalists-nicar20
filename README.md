@@ -52,9 +52,6 @@ The desktop app is the most user-friendly way to connect your local computer to 
 
 ## Using the Github desktop app
 
-TKTK put in slides/images etc. here TKTK
-SCREEN SHOTS TO COME
-
 ## Creating a new repository
 
 1. Go to `github.com` and log in
