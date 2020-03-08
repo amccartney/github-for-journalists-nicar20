@@ -5,17 +5,19 @@ Welcome to Github for Journalists!
 
 ## What is Github? What is git?
 
-Beyond the fact that `git` is a mysterious piece of software I can barely fathom, it is a piece of software used for version control. Whenever you make changes to a file that is tracked by `git`, both the old and new versions of that file are preserved in case you need to refer or revert to an earlier version. 
+Git is a version-control system for tracking changes in source code during software development. Whenever you make changes to a file that is tracked by git, both the old and new versions of that file are preserved in case you need to refer or revert to an earlier version. 
 
-Github is a website built on top of `git` that allows for easier access and sharing of repositories for people on teams or to the wider public.
+Github is a website built on top of git that allows for easier access and sharing of repositories for people on teams or to the wider public.
 
-You can think of Github like Google Doc where you can write/edit with your team simultaneously, view edit history and revert back, make a copy of the document and work on your own version or set the document private. It makes collaboration easier and more efficient. 
+You can think of Github like a Google Doc where you can write/edit with your team simultaneously, view edit history and revert back, make a copy of the document and work on your own version or set the document private. It makes collaboration easier and more efficient. 
 
 ## Why should I use it?
 
 Github allows you to track changes you make to your files, which can be useful when you are writing code, but also for many other applications. Github is particularly useful when you have more than one person working on the same project at once, and need to keep track of who is doing what work and where. 
 
-Github also natively supports display for several types of files like Markdown, which this page is written in. It can also display Jupyter notebooks, CSV files, images TK in the browser, making it easy to share work. 
+Github also supports project organization tools like "tickets" and "milestones" where you can assign certain tasks to team members, and check them off as they are accomplished.
+
+Github also natively supports display for several types of files like Markdown, which this page is written in. It can also display Jupyter notebooks, CSV files, images in the browser, making it easy to share work. 
 
 ## The ways you can use Github
 
