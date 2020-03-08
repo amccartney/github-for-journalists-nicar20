@@ -1,6 +1,8 @@
 # Github for Journalists
 ## NICAR 2020
 
+You can find this page at `http://bit.ly/github4journalists`
+
 Allison McCartney | Bloomberg Graphics space mom | @anmccartney
 ![space mom](img/spacemom.png)
 
