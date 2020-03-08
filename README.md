@@ -1,12 +1,12 @@
 # Github for Journalists
 ## NICAR 2020
 
-Allison McCartney | Bloomberg Graphics space mom
+Allison McCartney | Bloomberg Graphics space mom | @anmccartney
 ![space mom](img/spacemom.png)
-@anmccartney
-Jeremy C.F. Lin | Bloomberg Graphics chaos prince 
+
+Jeremy C.F. Lin | Bloomberg Graphics chaos prince | @Jeremy_CF_Lin 
 ![chaos prince](img/chaos.jpg)
-@Jeremy_CF_Lin 
+
 
 Welcome to Github for Journalists!
 
