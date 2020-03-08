@@ -1,6 +1,11 @@
 # Github for Journalists
 ## NICAR 2020
 
+Allison McCartney | Bloomberg Graphics space mom
+@anmccartney
+Jeremy C.F. Lin | Bloomberg Graphics chaos prince 
+@Jeremy_CF_Lin 
+
 Welcome to Github for Journalists!
 
 ## What is Github? What is git?
