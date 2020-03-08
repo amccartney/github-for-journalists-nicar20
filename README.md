@@ -68,7 +68,7 @@ The desktop app is the most user-friendly way to connect your local computer to 
 * `git pull`
 * `.gitignore` files
 
-## Terms explaiend
+## Terms explained
 
 * `master`: Main branch of your repository, the default branch if you dont create others.
 * `branch`: Use a branch to isolate development work without affecting other branches, basically means you are creating a new version of the repository. 
